@@ -1,12 +1,11 @@
 
-
 ```html name=index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Our Love Story</title>
+  <title>terrylove</title>
   <style>
     :root {
       --bg-1: #090b16;
@@ -257,7 +256,7 @@
 <body>
   <div class="container">
     <div class="content">
-      <h1 class="title">Our Love Story</h1>
+      <h1 class="title">terrylove</h1>
       <div class="subtitle">Griffin & Terry</div>
       <div class="date">Started on 27 October 2026, Tuesday</div>
 
