@@ -335,4 +335,18 @@
   </script>
 </body>
 </html>
-```
+```<h2>Will You Be My Forever?</h2>
+<button id="foreverBtn">Tap to Answer</button>
+
+<script>
+  const btn = document.getElementById('foreverBtn');
+  btn.addEventListener('click', () => {
+    alert("No hiding! 💖 Will you be my forever?");
+  });
+
+  // Prevent hiding by re-prompting if she tries to leave
+  window.onblur = () => {
+    alert("You can’t escape this love… 💍");
+  };
+</script>
+
